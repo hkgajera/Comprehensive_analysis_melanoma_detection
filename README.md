@@ -27,4 +27,6 @@ Proposed methodology:
 
 We present our proposed model which comprises three stages: preprocessing, deep feature extraction, and classification as shown in Figure. A detailed description of each stage is given below.
 
-![]()
+![](proposed_model.jpg)
+
+This work is published in Biomedical Signal Processing and Control,  Elsevier, You can find a full paper from :(https://www.sciencedirect.com/science/article/abs/pii/S1746809422006401)
